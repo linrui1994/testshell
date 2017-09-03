@@ -1,2 +1,2 @@
 > test shelljs
-> test
+> test shell
